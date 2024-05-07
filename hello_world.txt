@@ -1,0 +1,9 @@
+https://www.anandtech.com/show/21364/qualcomm-intros-snapdragon-x-plus-details-entire-sdx-chip-stack
+
+As Qualcomm prepares for the mid-year launch of their forthcoming Snapdragon X SoCs for PCs, and the 
+eagerly anticipated Oryon CPU cores within, the company is finally shoring up their official product 
+plans, and releasing some additional technical details in the process. Thus far the company has been 
+demonstrating their Snapdragon X Elite SoC in its highest-performing, fully-enabled configuration. 
+But the retail Snapdragon X Elite will not be a single part; instead, Qualcomm is preparing a whole 
+range of chip configurations for various price/performance tiers in the market. Altogether, there 
+will be 3 Snapdragon X Elite SKUs that differ in CPU and GPU performance.
